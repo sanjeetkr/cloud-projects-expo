@@ -9,7 +9,8 @@ Develop a serverless event announcement platform that allows users to:
 - View a list of events.
 - Create new events through a form. (only for specific users)
 
-- Actions to be performed on S3
+
+Actions to be performed on S3
     -   HTML, CSS, and events.json files
     -   Enable static hosting to access the website URL.
 
